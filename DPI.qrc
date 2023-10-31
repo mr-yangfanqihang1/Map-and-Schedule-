@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/new/DPI">
+        <file>qt.conf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+10
+Tuesday 2023.10.31
+border-image: url(C:/Users/86137/Desktop/Cpp_Program/Cpp_Program/1.png);
+font: 700 9pt "Microsoft YaHei UI";

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/qss"/>
+    <qresource prefix="/">
+        <file>Resources/B_Map.png</file>
+        <file>Resources/bupt.jpg</file>
+        <file>Resources/first.jpg</file>
+        <file>Resources/forth.jpg</file>
+        <file>Resources/second.jpg</file>
+        <file>Resources/third.jpg</file>
+    </qresource>
+</RCC>
